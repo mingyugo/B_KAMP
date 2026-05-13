@@ -1,0 +1,9 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+.DS_Store
+Thumbs.db
+desktop.ini
